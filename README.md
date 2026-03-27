@@ -1,31 +1,30 @@
 # life-simulator-source-code (Broken Build)
 
-**Симуляция жизни 20-левела куна. Код написан на коленке, документация утеряна, разраб ушел смотреть аниме.**
+**Simulation of a level 20-kun. Code written on a napkin, documentation lost, developer went to watch anime.**
 
-### Requirements (Системные требования):
-* **Чулки/юбка:** +50 к скорости написания кода, -100 к желанию выходить на улицу.
-* **Банка монстра (желательно белого):** Единственный источник маны и желания не дропать базу.
-* **Бритва для ног:** Для поддержки аэродинамики в домашних условиях.
-* **Отсутствие работы:** Чтобы было время на 24/7 обсуждение кринжа в тредах.
+### Requirements:
+* **Thigh-highs / Skirt:** +50 to coding speed, -100 to the desire to go outside.
+* **Can of Monster (preferably white):** The only source of mana and the will not to drop the database.
+* **Leg razor:** For optimal aerodynamics in domestic conditions.
+* **Unemployment:** To ensure enough time for 24/7 cringe discussions in threads.
 
-### Usage (Как пользоваться этой жизнью):
-1. Проснуться в 15:00.
-2. Проверить сосач на наличие новых тредов про фембоев.
-3. Попытаться пофиксить `social_anxiety.lib` (Ошибка: `Access Denied`).
-4. Посидеть в Discord-сервере, пока мамка не спросит, когда ты найдешь работу.
-5. Выпить энергетик и запустить Neovim, чтобы поменять цвет курсора.
-6. Лечь спать в 5 утра под хикка-плейлист.
+### Usage:
+1. Wake up at 3:00 PM.
+2. Check imageboards for new femboy threads.
+3. Attempt to fix `social_anxiety.lib` (Error: `Access Denied`).
+4. Rot in a Discord server until mom asks when you're getting a job.
+5. Drink an energy drink and launch Neovim just to change the cursor color.
+6. Go to bed at 5:00 AM listening to a hikka-playlist.
 
 ### FAQ:
-* **Q: Почему проект не запускается?** **A:** Runtime error: `Motivation not found`. Попробуй закинуть 500 мг кофеина и перезагрузить куна.
-* **Q: Где найти файл `girlfriend.exe`?** **A:** Файл удален администратором реальности. Тянки — это масс-медиа миф, иди учи Rust.
-* **Q: Как выйти на улицу?** **A:** Данная фича еще в разработке (Planned for 2077). При попытке выхода срабатывает `Panic Attack`.
-* **Q: Почему в логах столько самобичевания?** **A:** Это не баг, это фича. `Self-deprecation` — основной движок этой симуляции.
+* **Q: Why won't the project start?** **A:** Runtime error: `Motivation not found`. Try injecting 500mg of caffeine and rebooting the kun.
+* **Q: Where can I find `girlfriend.exe`?** **A:** File deleted by the System Administrator of Reality. Tyans are a mass media myth, go learn **Rust**.
+* **Q: How do I go outside?** **A:** This feature is still in development (Planned for 2077). Attempting to exit triggers a `Panic Attack`.
+* **Q: Why are the logs full of self-loathing?** **A:** It’s not a bug, it’s a feature. `Self-deprecation` is the core engine of this simulation.
 
 ### Issues:
-* [Critical] Глаза болят от монитора.
-* [Normal] Забыт вкус хлеба (босс-файт в магазине слишком сложный).
-* [Low] Нужно побрить ноги, но лень.
+* [Critical] Eyes hurt from the monitor.
+* [Normal] Forgot what bread tastes like (grocery store boss-fight is too hard).
+* [Low] Need to shave legs, but too lazy.
 
 ---
-
